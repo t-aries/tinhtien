@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tinhtien">
+    <output-path>$PROJECT_DIR$/out/artifacts/tinhtien</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Tinhtien" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Tinhtien/web/Web" />
+    </root>
+  </artifact>
+</component>
